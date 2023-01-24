@@ -20,3 +20,4 @@ jobs:
         server: ftp.pandalas.id
         username: anton@antondeni.com
         password: '@Kadal25'
+        local-dir: main-core
